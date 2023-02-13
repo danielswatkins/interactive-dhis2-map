@@ -1,0 +1,29 @@
+﻿Name,Country,ISO,State,Plan,System Name,Version
+dhis2.af.jhpiego.org,Afghanistan,AFG,Running,T-3,DHIS 2,2.37.6
+dhis.tz.jhpiego.org,Tanzania,TZA,Running,T-4,Jhpiego HIS,2.35.10
+dhis2.bd.jhpiego.org,Burundi,BDI,Running,T-2,DHIS 2,2.37.6
+dhis2.jhpiego.org,Global,USA,Running,T-3,DHIS 2,2.35.10
+dhis2.mw.jhpiego.org,Malawi,MWI,Running,T-4,DHIS 2,2.37.6
+dhis2.ss.jhpiego.org,South Sudan,SDS,Running,T-2,Jhpiego South Sudan,2.37.6
+jeis.jhpiego.org,Ethiopia,ETH,Running,T-2,JEIS - Jhpiego Ethiopia Information System,2.35.10
+mfldev-mohlr.baosystems.com,N/A,NA,Running,T-3,DHIS 2,2.35.10
+dhis2.train.jhpiego.org,Global,USA,Running,T-2,DHIS 2,2.37.6
+mcgltraining.baosystems.com,Global,USA,Stopped,T-5,BAO Systems Training Server,2.36.6
+qilm.jhpiego.org,,,Running,T-4,DHIS 2,2.37.2
+dhis2.pk.jhpiego.org,Pakistan,PAK,Running,T-3,DHIS 2,2.37.3
+dhis2.sl.jhpiego.org,Sierra Leone,SLE,Running,T-3,DHIS 2,2.37.3
+dhis2.ci.jhpiego.org,Côte d'Ivoire,CIV,Running,T-2,DHIS 2,2.37.4
+dhis2.ec.jhpiego.org,Ecuador,ECU,Running,T-3,DHIS 2,2.37.4
+dhis2.gh.jhpiego.org,Ghana,GHA,Running,T-2,DHIS 2,2.37.4
+dhis2.gt.jhpiego.org,Guatemala,GTM,Running,T-2,DHIS 2,2.37.4
+dhis2.id.jhpiego.org,Indonesia,IDN,Running,T-2,DHIS 2,2.37.4
+dhis2.in.jhpiego.org,India,IND,Running,T-3,DHIS 2,2.37.4
+dhis2.lr.jhpiego.org,Liberia,LBR,Running,T-2,Jhpiego Liberia,2.37.4
+dhis2.ls.jhpiego.org,Lesotho,LSO,Running,T-2,JHPIEGO Data Warehouse,2.37.4
+dhis2.mm.jhpiego.org,Myanmar,MMR,Running,T-2,DHIS 2,2.37.4
+dhis2.na.jhpiego.org,Namibia,NAM,Running,T-3,DHIS 2,2.37.4
+dhis2.ng.jhpiego.org,Nigeria,NGA,Running,T-4,DHIS 2,2.37.4
+dhis2.zm.jhpiego.org,Zambia,ZMB,Running,T-3,DHIS 2,2.37.4
+hapa.jhpiego.org,Global,USA,Running,T-4,DHIS 2,2.37.4
+jade.jhpiego.org,Global,USA,Running,T-4,JADE,2.37.4
+mae.jhpiego.org,Global,USA,Running,T-2,DHIS 2,2.37.4
